@@ -61,14 +61,11 @@ I am a multifaceted **IT Engineer** passionate about bridging the gap between so
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 
 ---
-
 ### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omair772&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Omair's Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omair772&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+
+![Omair's Stats](https://github-readme-stats.vercel.app/api?username=Omair772&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omair772&layout=compact&theme=radical)
 
 ---
 
